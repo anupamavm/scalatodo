@@ -1,1 +1,169 @@
 2026.03.24 22:59:26 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.24 23:02:23 INFO  no build target found for D:\Personal Projects\scalatodo\todo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:02:23 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:02:25 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\test\scala\MySuite.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:02:36 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:02:36 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Mar 24, 2026 11:02:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2026.03.24 23:02:36 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:02:43 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:02:43 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:02:50 WARN  no build target for: D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala
+2026.03.24 23:02:50 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:03:01 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:03:02 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:03:02 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:03:12 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:03:12 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:03:14 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:03:33 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:04:04 WARN  no build target for: D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala
+2026.03.24 23:04:04 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:04:20 INFO  Shutting down server
+2026.03.24 23:04:20 INFO  Memory monitor stopped
+2026.03.24 23:04:20 INFO  shutting down Metals
+2026.03.24 23:04:20 INFO  Exiting server
+2026.03.24 23:04:35 INFO  Started: Metals version 1.6.6 in folders 'D:\Personal Projects\scalatodo' for client Visual Studio Code 1.112.0.
+2026.03.24 23:04:35 INFO  Memory monitor started
+2026.03.24 23:04:36 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.24 23:04:37 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:04:40 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:04:40 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\test\scala\MySuite.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:04:41 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\test\scala\MySuite.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:04:40 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\test\scala\MySuite.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:04:45 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:04:46 WARN  no build target for: D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala
+2026.03.24 23:04:46 WARN  no build target for: D:\Personal Projects\scalatodo\todo\src\test\scala\MySuite.scala
+2026.03.24 23:04:46 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\test\scala\MySuite.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:04:46 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\test\scala\MySuite.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:04:47 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\test\scala\MySuite.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:04:58 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\test\scala\MySuite.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:04:58 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:04:58 WARN  no build target for: D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala
+2026.03.24 23:04:58 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:04:58 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:04:58 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:05:00 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:05:03 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:08:19 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:08:19 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:08:35 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:08:35 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+Mar 24, 2026 11:08:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.24 23:08:47 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:09:27 INFO  Shutting down server
+2026.03.24 23:09:27 INFO  Memory monitor stopped
+2026.03.24 23:09:27 INFO  shutting down Metals
+2026.03.24 23:09:27 INFO  Exiting server
+2026.03.24 23:10:57 INFO  Started: Metals version 1.6.6 in folders 'D:\Personal Projects\scalatodo' for client Visual Studio Code 1.112.0.
+2026.03.24 23:10:57 INFO  Memory monitor started
+2026.03.24 23:10:59 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.24 23:10:59 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:14:04 INFO  compilation cancelled
+2026.03.24 23:14:19 INFO  Attempting to connect to the build server...
+2026.03.24 23:14:19 INFO  No running Bloop server found, starting one.
+2026.03.24 23:15:12 WARN  no build target for: D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala
+2026.03.24 23:15:12 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:15:46 INFO  Starting compilation server
+2026.03.24 23:15:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at D:\Personal Projects\scalatodo\.metals\bsp.trace.json or C:\Users\wwwan\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2026.03.24 23:15:47 INFO  time: Connected to build server in 1m28s
+2026.03.24 23:15:47 INFO  Connected to Build server: Bloop v2.0.19
+2026.03.24 23:15:47 INFO  Created report: Optional.empty
+2026.03.24 23:15:47 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "D:\Personal Projects\scalatodo\.metals\.reports\bloop\2026-03-24\r_Empty build targets...._23-15-47-830.md")
+2026.03.24 23:15:47 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "D:\Personal Projects\scalatodo\.metals\.reports\bloop\2026-03-24\r_Empty build targets...._23-15-47-830.md")
+2026.03.24 23:15:47 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "D:\Personal Projects\scalatodo\.metals\.reports\bloop\2026-03-24\r_Empty build targets...._23-15-47-830.md")
+2026.03.24 23:15:47 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "D:\Personal Projects\scalatodo\.metals\.reports\bloop\2026-03-24\r_Empty build targets...._23-15-47-830.md")
+2026.03.24 23:15:47 INFO  Empty build targets. Expected at least one build target identifier. (full report at: "D:\Personal Projects\scalatodo\.metals\.reports\bloop\2026-03-24\r_Empty build targets...._23-15-47-830.md")
+2026.03.24 23:15:48 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:15:49 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.24 23:16:01 INFO  time: indexed workspace in 13s
+2026.03.24 23:16:01 WARN  no build target for: D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala
+2026.03.24 23:16:01 WARN  no build target for: D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala
+2026.03.24 23:16:01 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:16:01 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:16:03 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.24 23:22:50 INFO  Shutting down server
+2026.03.24 23:22:50 INFO  Memory monitor stopped
+2026.03.24 23:22:50 INFO  shutting down Metals
+2026.03.24 23:22:50 INFO  Shut down connection with build server.
+2026.03.24 23:22:50 INFO  Exiting server
+2026.03.24 23:22:50 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.lang.Thread.run(Thread.java:1583)
+
+2026.03.25 08:29:52 INFO  Started: Metals version 1.6.6 in folders 'D:\Personal Projects\scalatodo' for client Visual Studio Code 1.112.0.
+2026.03.25 08:29:52 INFO  Memory monitor started
+2026.03.25 08:29:53 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.25 08:29:53 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 08:29:54 INFO  skipping build import with status 'Installed'
+2026.03.25 08:29:54 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 08:29:54 WARN  no build target for: D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala
+2026.03.25 08:29:59 INFO  time: code lens generation in 5.27s
+2026.03.25 08:30:01 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 10:05:53 INFO  Shutting down server
+2026.03.25 10:05:53 INFO  Memory monitor stopped
+2026.03.25 10:05:53 INFO  shutting down Metals
+2026.03.25 10:05:53 INFO  Exiting server
+2026.03.25 22:04:35 INFO  Started: Metals version 1.6.6 in folders 'D:\Personal Projects\scalatodo' for client Visual Studio Code 1.112.0.
+2026.03.25 22:04:35 INFO  Memory monitor started
+2026.03.25 22:04:36 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.25 22:04:36 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:04:37 INFO  skipping build import with status 'Installed'
+2026.03.25 22:04:37 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:04:37 WARN  no build target for: D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala
+2026.03.25 22:04:44 INFO  time: code lens generation in 7.09s
+2026.03.25 22:04:45 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:06:22 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:06:22 INFO  no build target found for D:\Personal Projects\scalatodo\todo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:06:22 WARN  no build target for: D:\Personal Projects\scalatodo\todo\build.sbt
+2026.03.25 22:06:22 INFO  no build target found for D:\Personal Projects\scalatodo\todo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:06:22 INFO  no build target found for D:\Personal Projects\scalatodo\todo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+Mar 25, 2026 10:06:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2026.03.25 22:06:22 INFO  no build target found for D:\Personal Projects\scalatodo\todo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:06:23 INFO  no build target found for D:\Personal Projects\scalatodo\todo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:06:27 INFO  no build target found for D:\Personal Projects\scalatodo\todo\build.sbt. Using presentation compiler with project's scala-library version: 3.3.7
+Mar 25, 2026 10:08:44 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.25 22:10:22 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:10:22 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:10:22 WARN  no build target for: D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala
+2026.03.25 22:10:22 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:10:23 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:11:03 WARN  no build target for: D:\Personal Projects\scalatodo\todo\src\main\scala\TodoService.scala
+2026.03.25 22:11:03 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\TodoService.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:11:03 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\TodoService.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:11:03 WARN  Could not find semantic tokens for: file:///D:/Personal%20Projects/scalatodo/todo/src/main/scala/TodoService.scala
+2026.03.25 22:11:03 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\TodoService.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:11:03 WARN  Could not find semantic tokens for: file:///D:/Personal%20Projects/scalatodo/todo/src/main/scala/TodoService.scala
+2026.03.25 22:11:07 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\TodoService.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:11:07 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\TodoService.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:11:07 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\TodoService.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:11:07 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\TodoService.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:11:08 WARN  no build target for: D:\Personal Projects\scalatodo\todo\src\main\scala\TodoService.scala
+2026.03.25 22:11:08 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\TodoService.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:11:10 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\TodoService.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:11:18 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:11:18 WARN  no build target for: D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala
+2026.03.25 22:11:18 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:11:24 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:11:24 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:11:25 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:11:25 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:11:25 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:11:26 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:11:26 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:11:29 WARN  no build target for: D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala
+2026.03.25 22:11:29 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7
+2026.03.25 22:11:54 INFO  no build target found for D:\Personal Projects\scalatodo\todo\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.7

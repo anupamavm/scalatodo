@@ -1,5 +1,8 @@
-# macOS
+# OS generated files
 .DS_Store
+*.class
+*.log
+*~
 
 # sbt specific
 dist/*
@@ -22,9 +25,11 @@ local.sbt
 .vscode/
 
 # Metals
-.bloop/
 .metals/
-metals.sbt
+.bloop/
+.bsp/
+target/
+project/target/
 
 # IDEA
 .idea
