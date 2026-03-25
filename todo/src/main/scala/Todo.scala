@@ -1,0 +1,1 @@
+case class Todo(id: Int, task: String, isDone: Boolean = false)
